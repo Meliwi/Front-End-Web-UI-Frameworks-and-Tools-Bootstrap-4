@@ -64,7 +64,12 @@
                     <img src="img/logo.png" class="img-fluid">
                 </div>
                 <div class="col-12 col-sm-3 align-self-center">
-                    <a class="btn btn-warning btn-sm" href="#reservation" role="button"><strong>Reserve Table</strong></a>
+                    <!-- using data html means that the tooltip content can be styled using HTML  -->
+                    <a role="button"class="btn btn-block nav-link btn-warning" 
+                    data-toggle="tooltip" data-html="true" 
+                    title="Or call us at <br><strong>+852 1234678</strong>"
+                    data-placement = "bottom"
+                    href="#reservation" role="button"><strong>Reserve Table</strong></a>
                 </div>
             </div>
         </div>
@@ -226,6 +231,12 @@
         <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
         <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+        <!-- we came here to active the tooltip with Javascript  -->
+        <script>
+            $(document).ready(function(){
+                $('[data-toggle="tooltip"]').tooltip();
+            })
+        </script>
 
 </body>
 
