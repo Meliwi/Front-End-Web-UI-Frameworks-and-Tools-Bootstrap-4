@@ -4,11 +4,11 @@ Is a very powerful, lightweigth Javascript based library that provides a number 
 ## Bootstrap JQuery Example 
 
 ### This is an example of JQuery sintax
-<!-- <script>
+<script>
     $(document).ready(function(){
         $('[data-toggle="tooltip"]'.tooltip();
     });
-</script> -->
+</script>
 
 ### JQuery slectors 
 
