@@ -23,7 +23,7 @@ Is a very powerful, lightweigth Javascript based library that provides a number 
 - User's interactions on a web page causing DOM events: 
 - JQuery event methods: e.g, ready(), click()...  
 
-# Example Carousel 
+### Example Carousel 
 
 - Javascript base control:  
     - $('Carousel').carousel();
