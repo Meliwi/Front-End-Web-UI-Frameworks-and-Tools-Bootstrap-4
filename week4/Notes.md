@@ -1,0 +1,24 @@
+# Bootstrap and JQuery 
+Is a very powerful, lightweigth Javascript based library that provides a number of different components. 
+
+## Bootstrap JQuery Example 
+
+### This is an example of JQuery sintax
+<!-- <script>
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]'.tooltip();
+    });
+</script> -->
+
+### JQuery slectors 
+
+- Any Html element e.g., "p", "button" etc.
+- Using an #id, e.g., "#myCarousel"
+- class, e.g, ".btn", ".btn.btn-default"
+- Attribute, e.g, "[href]", "[data-toggle="tooltip"]"
+- Current element: $(this).
+
+### JQuery events 
+
+- User's interactions on a web page causing DOM events: 
+- JQuery event methods: e.g, ready(), click()...  
