@@ -29,4 +29,10 @@ Is a very powerful, lightweigth Javascript based library that provides a number 
     - $('Carousel').carousel();
     - e.g 
         $('.carousel').carousel({interval:2000});
-        
+
+- Other controls: 
+    - .carousel('cycle'): cycle items left to right
+    - .carousel('pause'): stops the carousel
+    - .carousel(number): cucles the carousel to a particular frame number specified. 
+    - .carousel('prev'): previous item
+    - .carousel('next'):next item.
