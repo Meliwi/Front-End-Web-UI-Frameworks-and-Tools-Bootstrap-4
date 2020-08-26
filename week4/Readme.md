@@ -22,3 +22,11 @@ Is a very powerful, lightweigth Javascript based library that provides a number 
 
 - User's interactions on a web page causing DOM events: 
 - JQuery event methods: e.g, ready(), click()...  
+
+# Example Carousel 
+
+- Javascript base control:  
+    - $('Carousel').carousel();
+    - e.g 
+        $('.carousel').carousel({interval:2000});
+        
