@@ -80,3 +80,20 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+
+.modal-content {
+    border: 0px;
+    .modal-header{
+        background: $background-dark;
+        color: floralwhite;
+        border: none;
+        .close{
+            color: floralwhite;
+        }
+    }
+    .modal-body{
+        background: $background-pale;
+    }
+}
+
