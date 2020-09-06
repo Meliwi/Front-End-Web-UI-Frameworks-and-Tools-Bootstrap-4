@@ -65,8 +65,25 @@ Final result of page:
 
 ### Bootstrap Javascript components 
 
+![](https://github.com/Meliwi/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4/blob/master/week4/screenshots/mapnav.jpg)
+
+* Bootstrap and Javascript 
+    Bootstrap's javascript support is through Js plugins
+        - Plugins written based on Jquery 
+        - Plugins can be individually included. 
 
 
+* Tabs, pills and Tablled navigation 
+
+- Collapse and Accordion 
+- Relevealing content: tooltips, popovers and modals. 
 
 
+### Web tools 
+
+* Less and Sass 
+    - css preprocessors less and sass
+        There are several css preprocessors
+        Most popular: less, sass(scss) and stylus. 
+        
 
