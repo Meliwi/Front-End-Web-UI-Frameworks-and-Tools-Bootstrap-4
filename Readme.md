@@ -20,7 +20,7 @@ Final result of page:
         * Material UI
         * Pure 
         * Skeleton 
-* Why are frontend UI frameworks? 
+* What are frontend UI frameworks? 
   - Responsive web design
   - Cross-browser compartibily. 
   - Increased productivity 
@@ -28,7 +28,7 @@ Final result of page:
 
 ### Getting started with Bootstrap 
 
-* Dowmloading boostrap 
+* Downloading boostrap 
     - npm install boutstrap@4.0.0 --save
     - npm install jquery@3.1.1 popper.js@1.12.9 --save
     
@@ -38,6 +38,32 @@ Final result of page:
         * Grid system 
         * Fluid images
         * Media queries. 
+
+### Bootstrap CSS components
+ 
+* Navigation bars 
+    - users often expect it at the top of the website. 
+    - Contorns links to various pages within your website. 
+
+* Breadcrumbs
+    - Secundary bavigation: Usually placed below the primary navigation and above the content.
+
+* Icon fonts 
+    Icon fonts provide a very flexible way of including tiny images into our web pages that can
+    be styled just like text. 
+
+* Buttons and forms
+    User input to a web page can be facilitated through three approaches: 
+     - "<a> tags provide hyperlinks"
+     - "<button> tags to create buttons"
+     - "<form> to create forms 
+        - <input> to create elements in forms"
+     
+* Tables and cards
+    Using tables is similar to html, but Bootstrap provides different tables styles and classes. 
+
+
+### Bootstrap Javascript components 
 
 
 
